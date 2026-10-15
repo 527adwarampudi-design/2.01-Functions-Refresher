@@ -77,6 +77,7 @@ function randomBetween () {
 */
 function clearOutput () {
   // TODO: Write your code here
+  render("<p class='text-muted'>Output cleared.</p>")
 }
 
 // ---- Event listeners for the demo buttons ----
